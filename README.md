@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suvrojit100
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on AI based, Web Development Projects 
 - 📫 How to reach me www.linkedin.com/in/ suvrojit-chowdhury-234031210
 
